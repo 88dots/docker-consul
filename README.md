@@ -1,5 +1,6 @@
 # Consul Agent in Docker
 
+[![Docker Repository on Quay.io](https://quay.io/repository/marwanhilmi/docker-consul/status?token=0cc80eb7-a3a1-4fb3-aa62-41e072e1bb7d "Docker Repository on Quay.io")](https://quay.io/repository/marwanhilmi/docker-consul)
 This project is a Docker container for [Consul](http://www.consul.io/). It's a slightly opinionated, pre-configured Consul Agent made specifically to work in the Docker ecosystem.
 
 ## Getting the container
